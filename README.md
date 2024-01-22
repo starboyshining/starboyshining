@@ -1,4 +1,4 @@
-### Hi i'm Jotavê 👋
+### Hi, i'm Jotavê 🕷
 
 - HTML | CSS | Javascript
 <div style="display: inline_block"><br>
